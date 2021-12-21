@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -80,7 +79,3 @@ Red: There are two Imposters. White could be sus. No one knows. It was a stack. 
         White was a good detective. <br>
         Lime and White voted Yellow and he got ejected. In the dead chat, Pink was celebrating. Red felt betrayed. He smiled a little when Yellow's secret was revealed. Victory for the crewmates!
     </h3>
-    </body>
-    
-  
-</html>
